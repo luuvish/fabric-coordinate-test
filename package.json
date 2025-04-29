@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "fabric": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/fabric": "^5.3.10",
+    "@types/node": "^22.15.3",
+    "typescript": "^5.8.3"
+  },
+  "name": "fabric-coordinate-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody IJ. Hwang",
+  "license": "MIT",
+  "description": "FabricJS Coordinate System Test"
+}
