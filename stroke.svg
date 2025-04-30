@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="480" viewBox="0 0 640 480" xml:space="preserve">
+<desc>Created with Fabric.js 5.5.2</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#FFFFFF"></rect>
+<g transform="matrix(1 0 0 1 130 100)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 100.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 100.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(0 1 -1 0 80 170)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 100.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 100.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 252 102)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 220.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 220.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 250.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 250.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 280.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 280.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(0 1 -1 0 198 172)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+<g transform="matrix(1 0 0 1 220.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 220.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 250.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 250.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 280.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 280.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 175.08 221.15)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="10" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-74.58" y="3.14" >rect (strokeWidth: 0/4, angle: 0/90)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 392 82)"  >
+<polyline style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-30,0 30,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 80.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 80.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(0 1 -1 0 358 172)"  >
+<polyline style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-30,0 30,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 140.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 140.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 482 102)"  >
+<polyline style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-20 0,20 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 80.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 100.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 120.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(0 1 -1 0 458 142)"  >
+<polyline style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-20 0,20 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 140.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 160.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 180.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 439.9 221.15)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="10" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-79.4" y="3.14" >polyline (strokeWidth: 4, angle: 0/90)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130 280)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 100.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 100.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 130.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 160.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 120 350)"  >
+<g style=""   >
+		<g transform="matrix(0 1 -1 0 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 100.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 100.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 120.5 350.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 120.5 350.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 140.5 380.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 140.5 380.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 252 282)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 220.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 220.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 252.5 282.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 252.5 282.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 284.5 304.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 284.5 304.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 242 352)"  >
+<g style=""   >
+		<g transform="matrix(0 1 -1 0 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 220.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 220.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 242.5 352.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 242.5 352.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 264.5 384.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 264.5 384.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 194.44 407.7)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="10" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-93.94" y="-3.41" >rect in group (strokeWidth: 0/4, angle: 0/90)</tspan><tspan x="-93.94" y="9.7" style="white-space: pre; ">              (rect size: 60x40)</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 390 280)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 360.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 390 340)"  >
+<g style=""   >
+		<g transform="matrix(0 1 -1 0 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 360.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 360.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 340.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 390.5 340.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 360.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 420.5 360.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 510 280)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 480.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 260.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 510.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 510.5 280.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 540.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 540.5 300.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 510 340)"  >
+<g style=""   >
+		<g transform="matrix(0 1 -1 0 0 0)"  >
+<rect style="stroke: rgb(16,16,16); stroke-width: 4; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,0,0); fill-rule: nonzero; opacity: 1;"  x="-30" y="-20" rx="0" ry="0" width="60" height="40" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 480.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 480.5 320.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 510.5 340.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 510.5 340.5)"  >
+<polyline style="stroke: rgb(0,255,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 540.5 360.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="-5,0 5,0 " />
+</g>
+<g transform="matrix(1 0 0 1 540.5 360.5)"  >
+<polyline style="stroke: rgb(0,0,255); stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  points="0,-5 0,5 " />
+</g>
+<g transform="matrix(1 0 0 1 454.44 407.7)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="10" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-93.94" y="-3.41" >rect in group (strokeWidth: 0/4, angle: 0/90)</tspan><tspan x="-93.94" y="9.7" style="white-space: pre; ">              (rect size: 60x40, group size: 60x40)</tspan></text>
+</g>
+</svg>
