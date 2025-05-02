@@ -1,5 +1,6 @@
 import { createStrokeObjects } from "./stroke";
 import { createOriginObjects } from "./origin";
+import { createCoordsObjects } from "./coords";
 import { createCanvas, writeCanvas } from "./util";
 
 function test(fileName: string, createObjects: () => fabric.Object[]) {
@@ -12,3 +13,4 @@ function test(fileName: string, createObjects: () => fabric.Object[]) {
 
 test('stroke', createStrokeObjects);
 test('origin', createOriginObjects);
+test('coords', createCoordsObjects);

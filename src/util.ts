@@ -14,12 +14,72 @@ export function createCanvas({
 }
 
 export function writeCanvas(canvas: fabric.StaticCanvas, fileName: string) {
-    const json = canvas.toJSON();
+    const json = toSimpleJSON(canvas);
     const svg = canvas.toSVG();
     const png = canvas.toDataURL({ format: 'png' }).replace(/^data:image\/png;base64,/, '');
     writeFile(`${fileName}.json`, JSON.stringify(json, null, 2));
     writeFile(`${fileName}.svg`, svg);
     writeFile(`${fileName}.png`, Buffer.from(png, 'base64'));
+}
+
+type BoundingRect = {
+  left: number;
+  top: number;
+  width: number;
+  height: number;
+}
+
+type FabricPoint = {
+  x: number;
+  y: number;
+}
+
+type SimpleJSON = {
+  type: string;
+  originX: string;
+  originY: string;
+  left: number;
+  top: number;
+  width: number;
+  height: number;
+  boundingRect: BoundingRect;
+  strokeWidth: number;
+  points?: FabricPoint[];
+  centerPoint?: FabricPoint;
+  objects?: SimpleJSON[];
+};
+
+function getAbsoluteBoundingRect(object: fabric.Object): BoundingRect {
+  const { left, top, width, height } = object.getBoundingRect(true);
+  if (object.group) {
+    const vpt = fabric.util.qrDecompose(object.group.calcTransformMatrix());
+    return {
+      left: left * vpt.scaleX + vpt.translateX,
+      top: top * vpt.scaleY + vpt.translateY,
+      width: width * vpt.scaleX,
+      height: height * vpt.scaleY,
+    }
+  }
+  return { left, top, width, height };
+}
+
+export function toSimpleJSON(canvasOrGroup?: fabric.StaticCanvas | fabric.Group): SimpleJSON[] {
+  return (canvasOrGroup?.getObjects() ?? []).map((object: fabric.Object) => {
+    return {
+      type: object.type ?? '',
+      originX: object.originX ?? 'left',
+      originY: object.originY ?? 'top',
+      left: object.left ?? 0,
+      top: object.top ?? 0,
+      width: object.width ?? 0,
+      height: object.height ?? 0,
+      boundingRect: getAbsoluteBoundingRect(object),
+      strokeWidth: object.get('strokeWidth') ?? 0,
+      ...(object.type === 'polyline' ? { points: (object as fabric.Polyline).points } : {}),
+      ...(object.type === 'group' ? { centerPoint: (object as fabric.Group).getCenterPoint() } : {}),
+      ...(object.type === 'group' ? { objects: toSimpleJSON(object as fabric.Group) } : {}),
+    };
+  }) ?? [];
 }
 
 export function wrapCornerCrossbar(object: fabric.Object): fabric.Object[] {

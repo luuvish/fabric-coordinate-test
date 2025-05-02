@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      window.onload = function() {
+        const canvas_1 = new fabric.Canvas('canvas_1', { width: 640, height: 480 });
+        const canvas_2 = new fabric.Canvas('canvas_2', { width: 320, height: 240 });
+        canvas_2.setViewportTransform([2, 0, 0, 2, 1, 1]);
+        console.log('body BoundingRect =', window.document.body.getBoundingClientRect());
+        console.log('canvas_1 BoundingRect =', canvas_1.getElement().getBoundingClientRect());
+        console.log('canvas_2 BoundingRect =', canvas_2.getElement().getBoundingClientRect());
+        console.log('canvas_1 viewportTransform =', canvas_1.viewportTransform);
+        console.log('canvas_2 viewportTransform =', canvas_2.viewportTransform);
+      };
+    </script>
+  </head>
+  <body>
+    <canvas id="canvas_1" width="640" height="480"></canvas>
+    <canvas id="canvas_2" width="640" height="480"></canvas>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
+  </body>
+</html>
